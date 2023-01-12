@@ -6,8 +6,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Overview]
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 
@@ -16,10 +14,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### The challenge
 
 Create an NFT preview card
-
-### Screenshot
-
-![](./desktop-preview.jpg)
 
 ### Built with
 
